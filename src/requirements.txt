@@ -1,0 +1,15 @@
+deep-translator
+textual
+SpeechRecognition
+PyQt6
+SpeechRecognition
+PyAudio
+openai
+transformers
+python-dotenv
+docx2txt
+PyPDF2
+python-pptx
+vosk
+deep-translator
+pytest
