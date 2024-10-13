@@ -19,6 +19,7 @@
 ### 1. Clona este repositorio:
 
 git clone https://github.com/tuusuario/hackea-la-entrevista.git
+
 cd hackea-la-entrevista
 
 
@@ -26,11 +27,14 @@ cd hackea-la-entrevista
 
 bash
 python -m venv venv
+
 source venv/bin/activate  # En Windows usa venv\Scripts\activate
+
 pip install -r requirements.txt
 
 
 ### 3. Configura las variables de entorno:
+
    - Crea un archivo `.env` en la raíz del proyecto y añade tu clave de API de OpenAI:
      ```
 
