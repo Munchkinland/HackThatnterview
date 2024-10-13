@@ -75,9 +75,11 @@ Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archiv
 
 ## Contacto
 
-Me puedes enviar un mensaje o pull request desde GITHUB
+Si deseas contactar conmigo, me puedes enviar un mensaje o pull request desde GITHUB
 
 ### Video Explicativo
 
 https://www.linkedin.com/feed/update/urn:li:activity:7250946140756467712/
+
+¡Gracias 😊!
 
