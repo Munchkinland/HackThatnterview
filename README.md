@@ -1,10 +1,10 @@
-# Hackea la Entrevista
+# Hack that interview
 
 ![download(1)](https://github.com/user-attachments/assets/39123f83-bced-4c0d-a164-cbe29f87fb0e)
 
 ## Descripción
 
-**Hackea la Entrevista** es un asistente inteligente diseñado para ayudar a los candidatos a prepararse para entrevistas de trabajo. Utiliza tecnologías avanzadas de procesamiento de lenguaje natural y reconocimiento de voz para proporcionar respuestas efectivas a preguntas de entrevistas, basándose en el currículum del usuario y la descripción del trabajo.
+**Hack tha inverview** es un asistente inteligente diseñado para ayudar a los candidatos a prepararse para entrevistas de trabajo. Utiliza tecnologías avanzadas de procesamiento de lenguaje natural y reconocimiento de voz para proporcionar respuestas efectivas a preguntas de entrevistas, basándose en el currículum del usuario y la descripción del trabajo.
 
 ## Características
 
